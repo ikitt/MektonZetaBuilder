@@ -1,0 +1,7 @@
+Mekton Z Builder V1
+
+développeur : Valentin Delahayes
+********************************
+
+***Dernnière version : V1***
+La version 1 permet simplement de créer les servo et d'en définir le blindage avec calcul du poids et du prix du chassis
