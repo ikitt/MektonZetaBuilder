@@ -3,5 +3,10 @@ Mekton Z Builder V1
 développeur : Valentin Delahayes
 ********************************
 
+Problèmes connus
+****************
+- Les servos ne sont pas liés entre eux. Problèmes pour indiqué qu'une arme est tenu en main elle doit rentré dans les espace du bras auquel la main est raccordé. 
+    => Solution au moins à court terme : associé l'arme au bras plutôt qu'à la main. (=> ajouté check box "tenu à la main" ?)
+
 ***Dernnière version : V1***
 La version 1 permet simplement de créer les servo et d'en définir le blindage avec calcul du poids et du prix du chassis
